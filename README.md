@@ -26,7 +26,7 @@ In this database, the schema contain three tables (which is in my `createTable.s
 3. employee
 
 4. `seed.sql` file to pre-populate your database
-In this CLI we can view all employees, view all employees by department name, view all employees by Manager name, Add Employee......   
+In this CLI we can view all employees, view all employees by department name, view all employees by Manager name, Add Employee, department, and role, remove employee, update employee manager. 
   
 To run the application execute following command 
 ```
