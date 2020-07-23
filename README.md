@@ -33,4 +33,4 @@ To run the application execute following command
  node app.js
 ```
 
-![Employee Tracker Demo video](Assets/employee-tracker.gif)
+![Employee Tracker Demo video](Assets\employeetracker.gif)
